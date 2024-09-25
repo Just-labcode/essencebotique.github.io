@@ -1,0 +1,59 @@
+
+.jumbotron-1.jumbotron-fluid,.jumbotron-2.jumbotron-fluid,.jumbotron-3.jumbotron-fluid,.jumbotron-4.jumbotron-fluid,.jumbotron-5.jumbotron-fluid {
+  width: 100%;
+  height: 100%;
+}
+.jumbotron.jumbotron-fluid {
+  margin: 0;
+  background-color: #181C14;
+}
+.container {
+  color: white;
+} 
+.jumbotron-1.jumbotron-fluid {
+  background-color: #3C3D37;
+  color: #ffffff;
+}
+.jumbotron-2.jumbotron-fluid {
+  background-color: #697565;
+  color: #ffffff;
+}
+.img-section2 {
+  margin-left: 70px;
+  margin-right: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.jumbotron-3.jumbotron-fluid {
+  background-color: #E6D9A2;
+  color: #ffffff;
+}
+.img-section3 {
+  margin-left: 20px;
+  margin-right: 75px;
+}
+.jumbotron-4.jumbotron-fluid {
+  background-color: #3A6D8C;
+  color: #ffffff;
+}
+.img-section4 {
+  margin-left: 75px;
+  padding-top: 40px;
+  margin-right: 60px;
+}
+.jumbotron-5.jumbotron-fluid {
+  background-color: #A04747;
+  color: #ffffff;
+}
+.img-section5 {
+  margin-left: 40px;
+  margin-right: 55px;
+}
+.jumbotron-6.jumbotron-fluid {
+  background-color: #FF9100;
+  color: #ffffff;
+}
+.img-section6 {
+  margin-left: 40px;
+  margin-right: 10px;
+}
